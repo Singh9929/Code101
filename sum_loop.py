@@ -1,6 +1,7 @@
 num=int(input("Enter a natural number:\n"))
 
-i,sum=1,0
+i=1
+sum=0
 while i<=num:
     sum=sum+i
     i=i+1
